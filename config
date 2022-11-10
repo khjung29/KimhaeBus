@@ -1,6 +1,6 @@
 {
-   "version" : 10,
-   "version_date" : "2021년12월01일",
+   "version" : 11,
+   "version_date" : "2022년11월10일",
    "noti" : false,
     "notilist":[{
     "title" : "공지사항",
